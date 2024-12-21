@@ -1,7 +1,7 @@
 {
 	"is_banner": "true",
 	"is_interstitial": "true",
-	"is_native": "true",
+	"is_native": "false",
 	"ad_network_type":"admob",
 	"unity_game_id":"",
 	"banner_ad_id":"ca-app-pub-2534165453613596/4000991938",
