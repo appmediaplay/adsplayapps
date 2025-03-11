@@ -1,6 +1,6 @@
 {
-	"is_banner": "true",
-	"is_interstitial": "true",
+	"is_banner": "false",
+	"is_interstitial": "false",
 	"is_native": "false",
 	"ad_network_type":"admob",
 	"unity_game_id":"",
